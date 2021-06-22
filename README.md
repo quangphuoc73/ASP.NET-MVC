@@ -1,5 +1,5 @@
 # ASP.NET-MVC
-ASP.NET-MVC is a project to learn and cread basic database for a web Moive 
+ASP.NET-MVC is a project to learn and create basic database for a web application Moive 
 ## Installtion 
 To run this project you need to install a few things:
 - Install Visual studio 2019
