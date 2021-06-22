@@ -1,16 +1,14 @@
 # Movies MVC
-Movies MVC is a project to learn and create basic database for a web application Movie
+Movies MVC is a project to learn and create basic database for a web movie application. 
 ## Installation 
-To run this project you need to install a few things:
-- Install Visual studio 2019 Version 16.10
-- Install entity framework 6 library in Visual Studio
-- Install SQL Server 2019 Import And Export so that the visual studio code's commands can be passed in
-- Install SQL Server Management Studio 18 to interact with the database
-## Instructions to open the application
-- After the installation is complete.
-- You open the ASP.NET-MVC folder, then go to the ASP.NET-MVC folder and double click on ASP.NET-MVC.sln to open it with Visual Studio.
-- After it shows up with Visual Studio complete, click the Play button to build the program.
-- After compiling, wait a few minutes, it will show up on your web browser with MVC Movies applications
-- MVC Movies application you can add, delete, edit and view movie information as you want
-- The database will be saved for the last change
+To run this project you need to install a few things below:
+- Visual studio 2019 Community Version.
+- Entity framework 6.
+- SQL Server 2019 Express.
+- SQL Server Management Studio 18.
+## Instructions 
+- After the installation is completed, You open the ASP.NET-MVC folder, next you go to the ASP.NET-MVC folder and double click on ASP.NET-MVC.sln to open it with Visual Studio.
+- After showing up with Visual Studio complete, you click the Play button to build the program.
+- You can interact with the MVC Movie application by adding, removing, editing and viewing movie information.
+- The database will be saved for the last change.
 
