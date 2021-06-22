@@ -12,4 +12,5 @@ To run this project you need to install a few things:
 - After it shows up with Visual Studio complete, click the Play button to build the program.
 - After compiling, wait a few minutes, it will show up on your web browser with MVC Movies applications
 - MVC Movies application you can add, delete, edit and view movie information as you want
+- The database will be saved for the last change
 
