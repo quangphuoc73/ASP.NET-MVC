@@ -1,5 +1,5 @@
 # Movies MVC
-Movies MVC is a project to learn and create basic database for a web application Moive 
+Movies MVC is a project to learn and create basic database for a web application Movie
 ## Installation 
 To run this project you need to install a few things:
 - Install Visual studio 2019 Version 16.10
