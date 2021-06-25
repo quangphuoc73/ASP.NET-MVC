@@ -25,7 +25,7 @@ namespace ASP.NET_MVC.Controllers
             var GenreQry = from d in db.Movies
                            orderby d.Genre
                            select d.Genre;
-
+                
             GenreLst.AddRange(GenreQry.Distinct());
             ViewBag.movieGenre = new SelectList(GenreLst);
 
