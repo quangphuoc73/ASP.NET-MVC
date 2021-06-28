@@ -87,7 +87,7 @@ namespace ASP.NET_MVC.Controllers
         // GET: Movies/Edit/5
         public ActionResult Edit(int? id)
         {
-            if (id == null)
+            if (id i== null)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
