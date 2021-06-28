@@ -87,12 +87,12 @@ namespace ASP.NET_MVC.Controllers
         // GET: Movies/Edit/5
         public ActionResult Edit(int? id)
         {
-            if (id is null)
+            if (id i== null)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
             Movie movie = db.Movies.Find(id);
-            if (movie is null)
+            if (movie == null)
             {
                 return HttpNotFound();
             }
