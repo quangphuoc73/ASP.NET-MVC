@@ -18,6 +18,7 @@ namespace ASP.NET_MVC.Controllers
         // GET: Movies
 
         // GET: Movies/search
+		[HttpGet]
         public ActionResult Index(string movieGenre, string searchString)
         {
             var GenreLst = new List<string>();
